@@ -354,7 +354,7 @@
 
 
     var image = new Image();
-    image.src = "images/txStainglass.bmp";
+    image.src = "images/foto.jpg";
     image.addEventListener('load', function() {
 
       gl.bindTexture(gl.TEXTURE_2D, texture);
